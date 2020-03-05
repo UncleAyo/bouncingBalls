@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "Package for using processes which mimics the threading module"
+name = "processing"
+optional = false
+python-versions = "*"
+version = "0.52"
+
+[metadata]
+content-hash = "1b0d406533d66913fa80ce191e4c48b0edb6760afafd4543a60a0348fff12ab3"
+python-versions = "^2.7"
+
+[metadata.hashes]
+processing = ["027d91c0ddd2343d2b5d44aee0dbe42a1edb6d9a490870a8f86a741517a697d6", "4818d99c24472421fc026ef66dbd8f9b3b991200ba77950f350a9910b6b1c840", "976fa4f8d30e8dc8216ae24d44c95587ae05ab39e9ac4bdc10691cab51fca11d"]
